@@ -1,9 +1,9 @@
 import java.util.*;
 class Box
 {
-	private double length;
-	private double breadth;
-	private double height;
+	public double length;
+	public double breadth;
+	public double height;
 	
 	public Box()
 	{
