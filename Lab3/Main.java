@@ -1,7 +1,7 @@
 // Name : Kanishk Rana
 // Roll Number :  2017241
 
-
+//Just uses basic java and emulate spotify app
 
 import java.util.ArrayList;
 import java.util.HashMap;
