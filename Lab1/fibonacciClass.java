@@ -1,7 +1,3 @@
-// NAME:Kanishk Rana
-// Roll No: 2017241
-
-
 import java.util.*;
 public class fibonacciClass
 {
