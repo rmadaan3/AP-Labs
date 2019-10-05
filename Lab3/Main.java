@@ -1,8 +1,3 @@
-// Name : Kanishk Rana
-// Roll Number :  2017241
-
-
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
